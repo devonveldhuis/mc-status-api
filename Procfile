@@ -1,0 +1,1 @@
+web: gunicorn mc-status-api:app --log-file=-
